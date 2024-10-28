@@ -128,8 +128,8 @@ let questions = [];
 
 async function loadQuestions() {
     try {
-        const response = await fetch("https://opentdb.com/api.php?amount=10&category=9&type=multiple")   
-        // const response = await fetch("./questions.json");
+        // const response = await fetch("https://opentdb.com/api.php?amount=10&category=9&type=multiple")   
+        const response = await fetch("./questions.json");
         const questions = await response.json();
         console.log(questions);
     } catch (error) {

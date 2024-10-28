@@ -1,17 +1,267 @@
 [
     {
-        "question": "What is the capital of France?",
-        "answers": ["Paris", "London", "Berlin", "Madrid"],
-        "answer": "Paris"
+        "question": "Quelle est la capitale de la France ?",
+        "answers": ["Paris", "Londres", "Berlin", "Madrid"],
+        "answer": "Paris",
+        "difficulté": "facile"
     },
     {
-        "question": "What is the capital of Germany?",
-        "answers": ["Paris", "London", "Berlin", "Madrid"],
-        "answer": "Berlin"
+        "question": "Quelle est la capitale de l'Allemagne ?",
+        "answers": ["Paris", "Londres", "Berlin", "Madrid"],
+        "answer": "Berlin",
+        "difficulté": "facile"
     },
     {
-        "question": "What is the capital of Spain?",
-        "answers": ["Paris", "London", "Berlin", "Madrid"],
-        "answer": "Madrid"
+        "question": "Quelle est la capitale de l'Espagne ?",
+        "answers": ["Paris", "Londres", "Berlin", "Madrid"],
+        "answer": "Madrid",
+        "difficulté": "facile"
+    },
+    {
+        "question": "Quel est le plus grand océan sur Terre ?",
+        "answers": ["Atlantique", "Indien", "Arctique", "Pacifique"],
+        "answer": "Pacifique",
+        "difficulté": "facile"
+    },
+    {
+        "question": "Qui a écrit 'Roméo et Juliette' ?",
+        "answers": ["Charles Dickens", "Jane Austen", "William Shakespeare", "Mark Twain"],
+        "answer": "William Shakespeare",
+        "difficulté": "moyenne"
+    },
+    {
+        "question": "Quel est le symbole chimique de l'or ?",
+        "answers": ["Au", "Ag", "Fe", "Pb"],
+        "answer": "Au",
+        "difficulté": "moyenne"
+    },
+    {
+        "question": "Quelle planète est connue sous le nom de planète rouge ?",
+        "answers": ["Terre", "Mars", "Jupiter", "Vénus"],
+        "answer": "Mars",
+        "difficulté": "facile"
+    },
+    {
+        "question": "Quelle est la monnaie du Japon ?",
+        "answers": ["Yen", "Won", "Dollar", "Euro"],
+        "answer": "Yen",
+        "difficulté": "facile"
+    },
+    {
+        "question": "Qui a peint la Mona Lisa ?",
+        "answers": ["Vincent van Gogh", "Pablo Picasso", "Léonard de Vinci", "Claude Monet"],
+        "answer": "Léonard de Vinci",
+        "difficulté": "moyenne"
+    },
+    {
+        "question": "Quel est le plus grand désert du monde ?",
+        "answers": ["Sahara", "Arabique", "Gobi", "Antarctique"],
+        "answer": "Antarctique",
+        "difficulté": "difficile"
+    },
+    {
+        "question": "Quel est le plus petit pays du monde ?",
+        "answers": ["Monaco", "Nauru", "Vatican", "Saint-Marin"],
+        "answer": "Vatican",
+        "difficulté": "facile"
+    },
+    {
+        "question": "Quel est le point culminant de la Terre ?",
+        "answers": ["K2", "Mont Everest", "Mont Blanc", "Mont Kilimandjaro"],
+        "answer": "Mont Everest",
+        "difficulté": "moyenne"
+    },
+    {
+        "question": "Quelle est la langue la plus parlée dans le monde ?",
+        "answers": ["Anglais", "Mandarin", "Espagnol", "Français"],
+        "answer": "Mandarin",
+        "difficulté": "moyenne"
+    },
+    {
+        "question": "Qui a écrit 'Le Petit Prince' ?",
+        "answers": ["Antoine de Saint-Exupéry", "Jules Verne", "Victor Hugo", "Marcel Proust"],
+        "answer": "Antoine de Saint-Exupéry",
+        "difficulté": "facile"
+    },
+    {
+        "question": "Quel est l'organe principal de la circulation sanguine ?",
+        "answers": ["Cerveau", "Cœur", "Foie", "Poumons"],
+        "answer": "Cœur",
+        "difficulté": "facile"
+    },
+    {
+        "question": "Quel est le pays d'origine du kangourou ?",
+        "answers": ["Australie", "Nouvelle-Zélande", "Afrique du Sud", "Brésil"],
+        "answer": "Australie",
+        "difficulté": "facile"
+    },
+    {
+        "question": "Quel est le symbole chimique de l'eau ?",
+        "answers": ["H2O", "O2", "CO2", "NaCl"],
+        "answer": "H2O",
+        "difficulté": "facile"
+    },
+    {
+        "question": "Qui a été le premier homme sur la Lune ?",
+        "answers": ["Yuri Gagarin", "Neil Armstrong", "Buzz Aldrin", "John Glenn"],
+        "answer": "Neil Armstrong",
+        "difficulté": "moyenne"
+    },
+    {
+        "question": "Quelle est la devise de la France ?",
+        "answers": ["Liberté, égalité, fraternité", "In God We Trust", "E pluribus unum", "Unity in Diversity"],
+        "answer": "Liberté, égalité, fraternité",
+        "difficulté": "facile"
+    },
+    {
+        "question": "Quel est le fleuve le plus long du monde ?",
+        "answers": ["Nil", "Amazone", "Yangtsé", "Mississippi"],
+        "answer": "Amazone",
+        "difficulté": "moyenne"
+    },
+    {
+        "question": "Quel est le plus grand mammifère terrestre ?",
+        "answers": ["Éléphant", "Giraffe", "Hippopotame", "Rhinocéros"],
+        "answer": "Éléphant",
+        "difficulté": "facile"
+    },
+    {
+        "question": "Quel est le plus grand pays du monde ?",
+        "answers": ["Canada", "Chine", "Russie", "États-Unis"],
+        "answer": "Russie",
+        "difficulté": "facile"
+    },
+    {
+        "question": "Quel est l'animal national de la France ?",
+        "answers": ["Aigle", "Coq", "Lion", "Boeuf"],
+        "answer": "Coq",
+        "difficulté": "facile"
+    },
+    {
+        "question": "Quelle est la capitale de l'Italie ?",
+        "answers": ["Rome", "Venise", "Florence", "Milan"],
+        "answer": "Rome",
+        "difficulté": "facile"
+    },
+    {
+        "question": "Quelle est la monnaie utilisée en Europe ?",
+        "answers": ["Dollar", "Euro", "Livre", "Franc"],
+        "answer": "Euro",
+        "difficulté": "facile"
+    },
+    {
+        "question": "Qui a écrit '1984' ?",
+        "answers": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "F. Scott Fitzgerald"],
+        "answer": "George Orwell",
+        "difficulté": "moyenne"
+    },
+    {
+        "question": "Quelle est la couleur du drapeau suisse ?",
+        "answers": ["Rouge et blanc", "Bleu et blanc", "Vert et jaune", "Rouge et noir"],
+        "answer": "Rouge et blanc",
+        "difficulté": "facile"
+    },
+    {
+        "question": "Quelle est la planète la plus proche du Soleil ?",
+        "answers": ["Terre", "Mars", "Vénus", "Mercure"],
+        "answer": "Mercure",
+        "difficulté": "facile"
+    },
+    {
+        "question": "Quel est l'organe responsable de la respiration ?",
+        "answers": ["Cœur", "Foie", "Poumons", "Estomac"],
+        "answer": "Poumons",
+        "difficulté": "facile"
+    },
+    {
+        "question": "Quel est le sport le plus populaire au monde ?",
+        "answers": ["Basketball", "Cricket", "Football", "Rugby"],
+        "answer": "Football",
+        "difficulté": "facile"
+    },
+    {
+        "question": "Qui a écrit 'Les Fleurs du mal' ?",
+        "answers": ["Charles Baudelaire", "Arthur Rimbaud", "Paul Verlaine", "Stéphane Mallarmé"],
+        "answer": "Charles Baudelaire",
+        "difficulté": "moyenne"
+    },
+    {
+        "question": "Quel est le nom de la première femme à avoir obtenu le prix Nobel ?",
+        "answers": ["Marie Curie", "Madame de Staël", "Simone de Beauvoir", "Emilie du Châtelet"],
+        "answer": "Marie Curie",
+        "difficulté": "moyenne"
+    },
+    {
+        "question": "Quel est le plus haut sommet de l'Afrique ?",
+        "answers": ["Kilimandjaro", "Mont Kenya", "Mont Meru", "Atlas"],
+        "answer": "Kilimandjaro",
+        "difficulté": "difficile"
+    },
+   
+    {
+        "question": "Quel est le plus grand océan sur Terre ?",
+        "answers": ["Atlantique", "Indien", "Arctique", "Pacifique"],
+        "answer": "Pacifique",
+        "difficulté": "facile"
+    },
+    {
+        "question": "Qui a écrit 'Roméo et Juliette' ?",
+        "answers": ["Charles Dickens", "Jane Austen", "William Shakespeare", "Mark Twain"],
+        "answer": "William Shakespeare",
+        "difficulté": "moyenne"
+    },
+    {
+        "question": "Quel est le symbole chimique de l'or ?",
+        "answers": ["Au", "Ag", "Fe", "Pb"],
+        "answer": "Au",
+        "difficulté": "moyenne"
+    },
+    {
+        "question": "Quelle planète est connue sous le nom de planète rouge ?",
+        "answers": ["Terre", "Mars", "Jupiter", "Vénus"],
+        "answer": "Mars",
+        "difficulté": "facile"
+    },
+    {
+        "question": "Quelle est la monnaie du Japon ?",
+        "answers": ["Yen", "Won", "Dollar", "Euro"],
+        "answer": "Yen",
+        "difficulté": "facile"
+    },
+    {
+        "question": "Qui a peint la Mona Lisa ?",
+        "answers": ["Vincent van Gogh", "Pablo Picasso", "Léonard de Vinci", "Claude Monet"],
+        "answer": "Léonard de Vinci",
+        "difficulté": "moyenne"
+    },
+    {
+        "question": "Quel est le plus grand lac d'Afrique ?",
+        "answers": ["Lac Victoria", "Lac Tanganyika", "Lac Malawi", "Lac Tchad"],
+        "answer": "Lac Victoria",
+        "difficulté": "moyenne"
+    },
+    {
+        "question": "Quel est le plus grand pays d'Amérique du Sud ?",
+        "answers": ["Argentine", "Brésil", "Chili", "Colombie"],
+        "answer": "Brésil",
+        "difficulté": "facile"
+    },
+    {
+        "question": "Quel est le plus grand désert chaud du monde ?",
+        "answers": ["Sahara", "Désert d'Arabie", "Désert de Gobi", "Désert de Kalahari"],
+        "answer": "Sahara",
+        "difficulté": "moyenne"
+    },
+    {
+        "question": "Quel est le plus long fleuve d'Afrique ?",
+        "answers": ["Nil", "Congo", "Niger", "Zambèze"],
+        "answer": "Nil",
+        "difficulté": "moyenne"
+    },
+    {
+        "question": "Quel est le plus grand océan sur Terre ?",
+        "answers": ["Atlantique", "Indien", "Arctique", "Pacifique"],
+        "answer": "Pacifique",
+        "difficulté": "facile"
     }
 ]
